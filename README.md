@@ -6,6 +6,9 @@
 수정 요청이나 건의 사항이 있으면 [이슈 게시판](https://github.com/keunwoochoi/machine_learning_eng2kor/issues)을 이용해주세요.
 
 
+## [단어 목록](./dictionary.md)
+[단어 목록은 여기](./dictionary.md)를 누르시면 됩니다.
+
 ## '머신 러닝' vs '기계 학습'
 '머신 러닝'이라는 단어만 쓰다가 '기계 학습'이라는 말을 들었을때 참 어색했습니다. 
 어떤 용어를 쓰는게 좋을까요? 익숙해지고 뜻을 알고 나면 어떤 단어를 사용하는지는 그렇게 중요하지 않습니다. 껍데기에 불과하죠.
@@ -29,36 +32,7 @@
 저는 우리말을 지켜야 한다고 생각하는 사람이 아닙니다. 다만 처음 접하는 사람에게 더 쉬운 번역이 좋은 번역이라고 생각하고, 그래서 가급적 한국어로 된 용어를 써서 번역을 하려고 합니다. 저한테도 어색한 단어가 많지만요. 
 
 
-## 목록
 
-* activation function: 활성 함수
-* artificial neural network: 인공 신경망, 신경망, 뉴럴넷, 뉴럴 네트워크
-* backpropagation, backprop: 역전파, 역방향전파, backprop,
-* BPTT; backpropagation through time: 시계열 역전파(?)
-* cell: 셀
-* chain rule: 연쇄 법칙
-* classification: 분류, 분류 작업
-* clustering: 군집화
-* convolution: 컨볼루션
-* convolution neural network: 컨브넷, CNN, CNNs
-* diagram: 그림, 도표, 도식
-* deep learning: 딥 러닝, 심층 학습
-* feed-forward neural network: FFNets, FF넷, 앞먹임 신경망
-* feedback: 피드백, 되먹임
-* gate: 게이트
-* hidden layer: 은닉층
-* label: 라벨, 레이블, 표식, (꼬리표..)
-* labelling: 라벨링, 레이블링, 꼬리표를 붙이다, 식별화
-* layer: 층
-* learning: 학습
-* long short-term memory: LSTM, LSTM유닛, LSTM넷, LSTM망
-* machine learning: 기계 학습, 머신 러닝
-* pattern: 패턴, 양식
-* Recurrent Neural Networks: RNN, RNNs, 순환 신경망, ~~리커런트 뉴럴 네트워크~~
-* regression: 회귀
-* reinforcement learning: 강화 학습, RL
-* time-series data: 시계열 데이터
-* training: 학습, 트레이닝
 
 
 
