@@ -4,7 +4,7 @@
 #### A
 * activation function: 활성 함수
 * array: 배열
-* artificial neural network: 인공 신경망, 신경망, 뉴럴넷, 뉴럴 네트워크
+* artificial neural network: *인공 신경망*, *신경망*, 뉴럴넷, 뉴럴 네트워크
 
 #### B
 * backpropagation, backprop: 역전파, 역방향전파, backprop,
@@ -12,13 +12,13 @@
 * BPTT; backpropagation through time: 시계열 역전파(?)
 
 #### C
-* category: 범
+* category: 범주
 * cell: 셀
 * chain rule: 연쇄 법칙
 * classification: 분류, 분류 작업
 * clustering: 군집화
 * convolution: 컨볼루션
-* convolution neural network: 컨브넷, CNN, CNNs
+* convolution neural network: *컨브넷*, 컨볼루션 네트워크, 컨볼루션 신경망, CNN, CNNs
 
 #### D
 * diagram: 그림, 도표, 도식
@@ -33,13 +33,13 @@
 * gate: 게이트
 
 #### H
-* hidden layer: 은닉층
+* hidden layer: *은닉층*
 
 #### L
 * label: 라벨, 레이블, 표식, (꼬리표..)
 * labelling: 라벨링, 레이블링, 꼬리표를 붙이다, 식별화
 * layer: 층
-* learning: 학습
+* learning: *학습*
 * long short-term memory: LSTM, LSTM유닛, LSTM넷, LSTM망
 
 #### M
