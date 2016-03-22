@@ -9,7 +9,7 @@
 
 #### B
 * backpropagation, backprop: 역전파, 역방향전파, backprop,
-* backward path: ...
+* backward pass: ...
 * BPTT; backpropagation through time: 시계열 역전파(?)
 
 #### C
@@ -34,7 +34,7 @@
 * feed-forward neural network: FFNets, FF넷, 앞먹임 신경망
 * feedback: 피드백, 되먹임
 * filter: 필터
-* forward path: ...
+* forward pass: ...
 * forget gate: 망각 게이트
 
 #### G
