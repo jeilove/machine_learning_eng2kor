@@ -79,6 +79,7 @@
 
 #### S
 * sequence: (맥락에 따라)배열. (sequence는 과거와 현재 사건에 인과관계를 암시하는 뉘앙스가 있는데 '배열'엔 이게 없어서 고민)
+* supervised learning: 지도학습
 
 #### T
 * test set: 시험 셋, 시험 데이터셋
@@ -87,6 +88,7 @@
 * training set: 학습 셋, 학습 데이터셋
 
 #### U
+* unsupervised learning: 비지도학습 
 
 #### V
 * validation: 검증
