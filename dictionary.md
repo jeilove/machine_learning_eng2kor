@@ -93,6 +93,7 @@
 #### V
 * validation: 검증
 * validation set: 검증 셋(..)
+* visible layer: 가시층
 
 #### W
 * weights: 가중치, (맥락에 따라)계수
