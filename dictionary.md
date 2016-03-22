@@ -16,6 +16,7 @@
 * category: 범주
 * cell: 셀
 * chain rule: 연쇄 법칙
+* character: 글자, 자소
 * classification: 분류, 분류 작업
 * clustering: 군집화
 * convolution: 컨볼루션
@@ -34,6 +35,7 @@
 * feedback: 피드백, 되먹임
 * filter: 필터
 * forward path: ...
+* forget gate: 망각 게이트
 
 #### G
 * gate: 게이트
