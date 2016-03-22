@@ -56,6 +56,7 @@
 * labelling: 라벨링, 레이블링, 꼬리표를 붙이다, 식별화
 * layer: 층
 * learning: *학습*
+* learning rate: 학습률
 * logistic regression: 로지스틱 회귀, 로지스틱 회귀 분석
 * long short-term memory: LSTM, LSTM유닛, LSTM넷, LSTM망
 
