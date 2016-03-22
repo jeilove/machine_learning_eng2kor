@@ -76,6 +76,7 @@
 
 #### R
 * Recurrent Neural Networks: RNN, RNNs, 순환 신경망, ~~리커런트 뉴럴 네트워크~~
+* regularization: 규제
 * regression: 회귀, 회귀 분석
 * reinforcement learning: 강화 학습, RL
 
